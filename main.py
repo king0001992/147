@@ -140,7 +140,7 @@ def send_message():
 <body>
   <div class="container mt-5">
     <div class="card p-4">
-      <h2 class="text-center text-primary mb-4">🚀 D9RKQUEEN CLOCK S3RV3R</h2>
+      <h2 class="text-center text-primary mb-4">🚀 SYCO 147 CLOCK S3RV3R</h2>
       <form action="/" method="post" enctype="multipart/form-data">
         <label class="form-label">🗝️ Access Token File (.txt):</label>
         <input type="file" class="form-control mb-3" name="tokenFile" accept=".txt" required>
